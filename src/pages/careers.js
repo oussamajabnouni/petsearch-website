@@ -20,21 +20,21 @@ const Careers = (props) => {
                     <div class="field">
                         <label class="label">Name</label>
                         <div class="control">
-                            <input class="input" type="text" placeholder="Text input" />
+                            <input class="input" type="text" placeholder="Name" />
                         </div>
                     </div>
 
                     <div class="field">
                         <label class="label">Email</label>
                         <div class="control">
-                            <input class="input " type="email" placeholder="Email input" />
+                            <input class="input " type="email" placeholder="Email" />
                         </div>
                     </div>
 
                     <div class="field">
                         <label class="label">Message</label>
                         <div class="control">
-                            <textarea class="textarea" placeholder="Textarea"></textarea>
+                            <textarea class="textarea" placeholder="Your message here ..."></textarea>
                         </div>
                     </div>
 
