@@ -3,7 +3,7 @@ module.exports = {
     title: 'Petsearch',
     author: 'Oussama jabnouni',
     description: 'Petsearch is a one of a kind, unique application for pet lovers and pet owners alike.',
-    siteUrl: '/',
+    siteUrl: 'https://petsearch.netlify.com/',
   },
   pathPrefix: '/gatsby-starter-blog',
   plugins: [
